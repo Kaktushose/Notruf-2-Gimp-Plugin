@@ -4,9 +4,9 @@
 Ein kleines Plugin für Gimp, das Projekte automatisch ins richtigen Format für Notruf 2 exportiert. 
 
 ## Vorrausetzungen
-[Aktuellste Gimp-Version](https://www.gimp.org/downloads/) (Version 2.10.18) **Kein Support für Versionen vor 2.10.***
+- [Aktuellste Gimp-Version](https://www.gimp.org/downloads/) (Version 2.10.18) **Kein Support für Versionen vor 2.10.***
 
-[Notruf 2 Showroom](https://store.steampowered.com/app/1275380/Notruf_112__Die_Feuerwehr_Simulation_2_Showroom/) 
+- [Notruf 2 Showroom](https://store.steampowered.com/app/1275380/Notruf_112__Die_Feuerwehr_Simulation_2_Showroom/) 
 
 ## Installation
 1. Lade die Datei `notruf.py` [hier](https://github.com/Kaktushose/Notruf-2-Gimp-Plugin/releases/tag/v.1.0.0) herunter. 
@@ -31,9 +31,9 @@ Das war's. Der Skin ist jetzt im Showroom nutzbar.
 A small plugin for Gimp that automatically exports projects to the correct format for Emergency Call 2. 
 
 ## Prerequisites
-[Latest Gimp version](https://www.gimp.org/downloads/) (Version 2.10.18) **No support for versions prior to 2.10.***
+- [Latest Gimp version](https://www.gimp.org/downloads/) (Version 2.10.18) **No support for versions prior to 2.10.***
 
-[Notruf 2 Showroom](https://store.steampowered.com/app/1275380/Notruf_112__Die_Feuerwehr_Simulation_2_Showroom/) 
+- [Notruf 2 Showroom](https://store.steampowered.com/app/1275380/Notruf_112__Die_Feuerwehr_Simulation_2_Showroom/) 
 
 ## Installation
 1. Download the file `notruf.py` [here](https://github.com/Kaktushose/Notruf-2-Gimp-Plugin/releases/tag/v.1.0.0) 
