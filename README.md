@@ -13,7 +13,7 @@ Ein kleines Plugin für Gimp, das Projekte automatisch ins richtigen Format für
 2. Verschiebe die Datei in den folgenden Ordner: `C:\Users\[user]\AppData\Roaming\GIMP\2.10\plug-ins` 
 
 ## Benutzung
-1. Gehe zum Menüpunkt `Bild` und wähle `Als Notruf Skin exportieren...`.
+1. Gehe zum Menüpunkt `Bild` und wähle `Als Notruf Skin exportieren...` aus.
 2. Gib Im Auswahldialog den Dateipfad an und bestätige anschließend mit `Speichern` und `OK`. 
 
 Das war's. Der Skin ist jetzt exportiert und im Showroom nutzbar.
