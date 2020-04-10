@@ -9,21 +9,22 @@ Ein kleines Plugin für Gimp, das Projekte automatisch ins richtigen Format für
 - [Notruf 2 Showroom](https://store.steampowered.com/app/1275380/Notruf_112__Die_Feuerwehr_Simulation_2_Showroom/) 
 
 ## Installation
-1. Lade die Datei `notruf.py` [hier](https://github.com/Kaktushose/Notruf-2-Gimp-Plugin/releases/tag/v.1.0.0) herunter. 
+1. Lade die Datei `notruf_de.py` [hier](https://github.com/Kaktushose/Notruf-2-Gimp-Plugin/releases/tag/v.1.0.0-de) herunter. 
 2. Verschiebe die Datei in den folgenden Ordner: `C:\Users\[user]\AppData\Roaming\GIMP\2.10\plug-ins` 
 
 ## Benutzung
-1. Im Menüpunkt `Bild` den Reiter `Exportieren als Notruf Skin...` auswählen.
-2. Den kompletten Dateipfad angeben, an dem der Skin gespeichert werden soll. *Beispiel:* `C:\Users\Kaktus\Documents\Notruf 2 Skins\ExampleSkin\ELW_tex.dds`
-**Wichtig: Unterordner werden nicht vom Plugin erstellt und müssen vorher manuell angelegt werden**
+1. Im Menüpunkt `Bild` den Reiter `Als Notruf Skin exportieren...` auswählen.
+2. Im Auswahldialog den Dateipfad wählen und anschließend mit `Speichern` und `OK` bestätigen. 
 
-Das war's. Der Skin ist jetzt im Showroom nutzbar.
+Das war's. Der Skin ist jetzt exportiert und im Showroom nutzbar.
+
+Um den Workflow noch weiter zu verbessern, kannst du auch einen Shortcut für das Plugin hinzufügen. Gehe zum Menüpunkt `Bearbeiten` und wähle `Tastenkombinationen` aus.
 
 ## Fehlerbehebung
 
 - Alle Ebenen die exportiert werden sollen, müssen sichtbar sein.
 - Es darf keine akutelle Auswahl vorhanden sein.
-- Alle Unterordner müssen bereits vorhanden sein. 
+- Der Dateipfad muss existieren und die Dateiendung muss `dds` sein. 
 - Joine dem [offiziellen Discord Server](https://discord.gg/pCDvucg) für weitere Hilfe.
 
 # Notruf 2 Gimp Plugin (english)
@@ -36,21 +37,23 @@ A small plugin for Gimp that automatically exports projects to the correct forma
 - [Notruf 2 Showroom](https://store.steampowered.com/app/1275380/Notruf_112__Die_Feuerwehr_Simulation_2_Showroom/) 
 
 ## Installation
-1. Download the file `notruf.py` [here](https://github.com/Kaktushose/Notruf-2-Gimp-Plugin/releases/tag/v.1.0.0) 
+1. Download the file `notruf_en.py` [here](https://github.com/Kaktushose/Notruf-2-Gimp-Plugin/releases/tag/v.1.0.0-en) 
 2. Move the file to the following directory `C:\Users\[user]\AppData\Roaming\GIMP\2.10\plug-ins` 
 
 ## Usage
-1. Under the menu item `Image` select the tab `Exportieren als Notruf Skin...`
-2. Enter the complete path where you want to save the skin. *Example:* `C:\Users\Cactus\Documents\Notruf 2 Skins\ExampleSkin\ELW_tex.dds`
-**Important: Subfolders won't be created by the plugin and must be created manually beforehand**
+1. Under the menu item `Image` select the tab `Export as Emergency Call 112 Skin...`
+2. Select the file path in the filechooser dialog and then confirm with 'Save' and 'OK'. 
 
-That's it. The skin is now usable in the showroom.
+That's it. The skin is now exported and usable in the showroom.
+
+To optimize the workflow even more you can also add a shortcut for the plugin. Go to Edit and select Keyboard Shortcuts.
+
 
 ## Troubleshooting
 
 - All layers to be exported must be visible.
-- There must not be a current selection.
-- All subfolders must already exist. 
+- There must not be a current selection. 
+- The file path must exist and the file extension must be `dds`.
 - Join the [Official Discord Server](https://discord.gg/cPm9KRk) for further help. 
 
 
